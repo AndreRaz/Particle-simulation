@@ -6,11 +6,7 @@ A real-time 2D electrostatic particle simulation written in **C** using **Raylib
 
 ## Demo
 
-https://github.com/user-attachments/assets/simulation
-
-> **Note:** Upload `video/simulation.webm` to your GitHub repo and replace the URL above with the one GitHub generates after upload.
-
-<video src="video/simulation.webm" autoplay loop muted playsinline width="500"></video>
+<video src="https://raw.githubusercontent.com/AndreRaz/Particle-simulation/main/video/simulation.webm" autoplay loop muted playsinline width="500"></video>
 
 ---
 
